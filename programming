@@ -1,0 +1,5 @@
+print("hello, the roots of the quadratic x**2+2x-5 are")
+print(  ((-2)+(2**(1/2)-(4-1*5))/(2*1))  )# +B formula
+print(  ((-2)-(2**(1/2)-(4-1*5))/(2*1))  )# -b formula
+print
+print("goodbye")
